@@ -1,4 +1,4 @@
-# Resend with Example
+# Resend with Bun
 
 This example shows how to use Resend with [Bun](https://bun.sh).
 
