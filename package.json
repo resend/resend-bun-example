@@ -3,8 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
-    "@types/react": "^18.2.20",
-    "@types/react-dom": "^18.2.7",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "bun-types": "latest"
   },
   "peerDependencies": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@react-email/components": "^0.0.7",
-    "react": "^18.2.0",
+    "react": "^19.0.0",
     "resend": "^1.0.0"
   }
 }
