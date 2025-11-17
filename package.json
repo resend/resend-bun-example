@@ -13,6 +13,6 @@
   "dependencies": {
     "@react-email/components": "^1.0.0",
     "react": "^19.0.0",
-    "resend": "^1.0.0"
+    "resend": "^6.0.0"
   }
 }
