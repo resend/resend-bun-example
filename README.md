@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Bun examples here](https://github.com/resend/resend-examples/tree/main/bun-resend-examples)**
+
+---
+
+
 # Resend with Bun
 
 This example shows how to use Resend with [Bun](https://bun.sh).
