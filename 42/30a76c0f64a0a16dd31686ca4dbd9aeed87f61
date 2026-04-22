@@ -1,0 +1,25 @@
+waitlist-email.tsx
+  0be4475958d44179 9
+package.json
+  0be4475958d44179 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "4230a76c0f64a0a16dd31686ca4dbd9aeed87f61",
+  "prompts": {
+    "0be4475958d44179": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e45906fa-a2d6-463a-8f05-62707e252535",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "João Melo",
+      "messages": [],
+      "total_additions": 117,
+      "total_deletions": 52,
+      "accepted_lines": 117,
+      "overriden_lines": 0
+    }
+  }
+}
