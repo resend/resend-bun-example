@@ -11,8 +11,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@react-email/components": "^1.0.0",
     "react": "^19.0.0",
+    "react-email": "^6.0.0",
     "resend": "^6.0.0"
   }
 }
